@@ -10,81 +10,77 @@ that gap in drafts instead of inventing an answer. Lines marked
 ## Who I am
 
 - **Name:** Doctors Surgical Supply (DSS)
-- **Handle:** {{instagram handle}}
+- **Handle:** @doctorssurgicalsupply
 - **What I do, in one sentence:** We manufacture and export dental and surgical
   instruments from Sialkot and Karachi, Pakistan, certified to ISO 13485:2016,
   CE and UKCA.
 - **Who I am talking to:** Practising dentists and surgeons who choose their own
   instruments, and the distributors and procurement buyers who supply clinics
-  and hospitals in the UK, UAE, Nigeria, Bangladesh and the USA.
-- **What I sell:** Dental and surgical instruments, manufactured in-house and
-  exported. {{main product lines, e.g. extraction forceps, elevators, scalers,
-  scissors, needle holders}} {{OEM / private label: yes or no}} {{MOQ}}
+  and hospitals. We ship worldwide: the UK, UAE and wider Middle East,
+  Bangladesh, the USA and more.
+- **What I sell:** Instruments made from German stainless steel, manufactured
+  in-house and exported. Product lines: Dental, General Surgery, ENT,
+  Orthopedics, Neuro and more. OEM and private label available.
 
 ## What I sound like
 
-- **Three of my own reels or captions that sound most like me:** {{paste three
-  real DSS posts, or none yet}}
+- **Three of my own reels or captions that sound most like me:** {{none yet}}
 - **On camera I am:** Calm, precise and matter-of-fact. A manufacturer
   explaining how something is made, not a salesman.
 - **Words I actually use:** instrument, grade, finish, tolerance, batch,
-  certified, export, OEM, private label, lead time, inspection, stainless steel
-  *(suggested, confirm)*
+  certified, export, OEM, private label, lead time, inspection, German stainless
+  steel *(suggested, confirm)*
 - **Words I would never say out loud:** game-changer, revolutionary, best in the
   world, cheapest, unbeatable, miracle, guaranteed results, insane, hack, viral
 - **Do I swear:** No
-- **Emoji in captions:** {{never / one, rarely}} *(suggested: never)*
-- **Face on camera:** {{always / sometimes / faceless}}
-- **Voiceover or to-camera:** {{voiceover over factory footage / to-camera}}
-- **Spoken language:** {{English only, or English plus Urdu / Arabic}}
+- **Emoji in captions:** Never *(suggested, confirm)*
+- **Face on camera:** Always. A person on camera.
+- **Voiceover or to-camera:** To-camera
+- **Spoken language:** English
 - **Pace:** 150 wpm *(suggested for a calm B2B delivery, confirm or time a
   real read)*
 
 ## My positions
 
-Things DSS believes that part of its audience does not. Unconfirmed.
+Things DSS believes that part of its audience does not.
 
-1. {{position}} *(suggested: "Made in Sialkot" is a standard to prove with
-   certificates, not a reason to expect a lower grade.)*
-2. {{position}} *(suggested: A distributor should ask for the ISO 13485
-   certificate and test reports before asking for the price list.)*
-3. {{position}} *(suggested: A cheaper instrument that has to be replaced twice
-   a year costs a clinic more than one that lasts.)*
+1. "Made in Sialkot" is a standard to prove with certificates, not a reason to
+   expect a lower grade.
+2. A distributor should ask for the ISO 13485 certificate and test reports
+   before asking for the price list.
+3. A cheaper instrument that has to be replaced twice a year costs a clinic
+   more than one that lasts.
 
 ## Off limits
 
 - **Topics I do not post about:** Politics, religion, competitor names.
-  {{anything else}}
-- **Clients, numbers or names I cannot say publicly:** {{distributor and
-  hospital names that are under NDA, pricing}}
+- **Never mentioned publicly:** Client names. Prices. Minimum order quantity.
 - **Claims I am not allowed to make:** These are regulated medical devices.
-  - Name certifications exactly: ISO 13485:2016, CE, UKCA. Do not say "FDA
-    approved", "FDA cleared" or "FDA registered" for the USA market unless DSS
-    confirms its actual status: {{FDA status}}.
+  - Name certifications exactly: ISO 13485:2016, CE, UKCA.
+  - Never mention the FDA, in any form, anywhere.
+  - Steel is "German stainless steel". No grade numbers.
   - No clinical outcome claims (better healing, fewer infections, safer
     surgery) without data DSS can cite.
-  - No "medical grade" or steel grade claims beyond the actual spec: {{steel
-    grades used, e.g. AISI 410 / 420 / 316L}}.
   - No comparative claims against named competitors.
 
 ## Proof I can use
 
-Real numbers and stories DSS is happy to put its name on. Empty until DSS
-supplies them, so drafts will carry `{{your number}}`.
+Real facts DSS is happy to put its name on. Anything in `{{...}}` is not
+available yet, so drafts that need it will carry the gap.
 
-- ISO 13485:2016, CE and UKCA certified (certificate numbers / notified body:
-  {{optional}})
-- Exporting to the UK, UAE, Nigeria, Bangladesh and the USA
-- {{years in business / founded}}
-- {{size of catalogue: number of instrument patterns}}
-- {{annual output, countries shipped, number of distributors}}
+- ISO 13485:2016, CE and UKCA certified
+- German stainless steel
+- Manufactured in-house in Sialkot and Karachi, Pakistan
+- Ships worldwide: UK, UAE and the Middle East, Bangladesh, USA and more
+- OEM and private label available
+- {{years in business}}
+- {{number of instrument patterns in the catalogue}}
 - {{one real customer story DSS can tell publicly}}
 
 ## The ask
 
-- **My keyword CTA, if I use one:** {{one word, e.g. CATALOGUE}}
-- **What the keyword sends them:** {{catalogue PDF / price list / sample
-  request form}}
-- **Where my link goes:** {{website or WhatsApp business link}}
-- **Primary ask for distributors:** {{request a catalogue / request samples /
-  WhatsApp the export team}}
+- **My keyword CTA:** CATALOGUE
+- **How it works:** Comment or DM "CATALOGUE" and DSS sends the catalogue PDF on
+  WhatsApp.
+- **Where my link goes:** doctorssurgicalsupply.com
+- **WhatsApp:** +92 329 3945343
