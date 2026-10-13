@@ -2,8 +2,7 @@
 
 Voice profile for Doctors Surgical Supply (DSS). Every skill in the pack reads
 this file. Anything still marked `{{...}}` is unknown, and the skills will leave
-that gap in drafts instead of inventing an answer. Lines marked
-*(suggested, confirm)* are drafts that DSS has not signed off yet.
+that gap in drafts instead of inventing an answer.
 
 ---
 
@@ -16,7 +15,7 @@ that gap in drafts instead of inventing an answer. Lines marked
   CE and UKCA.
 - **Who I am talking to:** Practising dentists and surgeons who choose their own
   instruments, and the distributors and procurement buyers who supply clinics
-  and hospitals. We ship worldwide: the UK, UAE and wider Middle East,
+  and hospitals. We ship worldwide: the UK, UAE and wider Middle East, Nigeria,
   Bangladesh, the USA and more.
 - **What I sell:** Instruments made from German stainless steel, manufactured
   in-house and exported. Product lines: Dental, General Surgery, ENT,
@@ -29,16 +28,15 @@ that gap in drafts instead of inventing an answer. Lines marked
   explaining how something is made, not a salesman.
 - **Words I actually use:** instrument, grade, finish, tolerance, batch,
   certified, export, OEM, private label, lead time, inspection, German stainless
-  steel *(suggested, confirm)*
+  steel
 - **Words I would never say out loud:** game-changer, revolutionary, best in the
   world, cheapest, unbeatable, miracle, guaranteed results, insane, hack, viral
 - **Do I swear:** No
-- **Emoji in captions:** Never *(suggested, confirm)*
+- **Emoji in captions:** Never
 - **Face on camera:** Always. A person on camera.
 - **Voiceover or to-camera:** To-camera
 - **Spoken language:** English
-- **Pace:** 150 wpm *(suggested for a calm B2B delivery, confirm or time a
-  real read)*
+- **Pace:** 150 wpm
 
 ## My positions
 
@@ -71,7 +69,8 @@ available yet, so drafts that need it will carry the gap.
 - ISO 13485:2016, CE and UKCA certified
 - German stainless steel
 - Manufactured in-house in Sialkot and Karachi, Pakistan
-- Ships worldwide: UK, UAE and the Middle East, Bangladesh, USA and more
+- Ships worldwide: UK, UAE and the Middle East, Nigeria, Bangladesh, USA and
+  more
 - OEM and private label available
 - {{years in business}}
 - {{number of instrument patterns in the catalogue}}
